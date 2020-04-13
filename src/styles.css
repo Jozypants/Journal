@@ -1,3 +1,12 @@
 body {
   background-color: darkslateblue;
+  font-family: sans-serif;
+}
+
+.container {
+  padding: 5%;
+  margin: 20%;
+  border: 2px solid black;
+  text-align: center;
+  background-color: darkkhaki;
 }
